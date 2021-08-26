@@ -1,4 +1,4 @@
-const text = "My husband is one of a kind!!! Wishing us more good health, more memories to share and more years to cheers ♡♡♡ Happy 2nd Wedding Anniversary ♡♡♡ I LoVe You ♡♡♡♡♡♡"
+const text = "My husband is one of a kind!!! Wishing us more healthy life, more memories to share and more years to cheers ♡♡♡ Happy 2nd Wedding Anniversary ♡♡♡ I LoVe You ♡♡♡♡♡♡"
 
 let index = 0;
 
